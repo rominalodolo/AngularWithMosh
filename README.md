@@ -28,3 +28,5 @@ run: `ng new hello-world`
 In VS code type shift, control p to open command pallette. ![code](https://user-images.githubusercontent.com/83961643/211661911-746c58b4-291b-46f6-9925-f821aa8e67f7.jpeg)
 
 in the path... hello-world $`code . ` 
+
+hello-world $`ng serve` 
